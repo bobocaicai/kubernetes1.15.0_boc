@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.15.0
+FROM https://dl.k8s.io/v1.15.1/kubernetes-server-linux-amd64.tar.gz
